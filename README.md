@@ -7,3 +7,5 @@ This repository provides sample codes for training yolov4 model, mapping gaze co
 In the Yolov4 notebook file contains commands using which yolov4 model can be trained. 
 We used this repository https://github.com/AlexeyAB/darknet to train yolov4 model for our custom dataset.
 p26_1920.txt is the test results of trained yolov4 model. For each frame it displays classes detected together with the bounding box coordinates and confidence score.
+
+Sensors 2021, 21(22), 7668; https://doi.org/10.3390/s21227668 Human Activity Recognition Using Wearable Sensors for Learning and Teaching) · Nov 18, 2021
